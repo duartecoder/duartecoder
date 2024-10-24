@@ -29,9 +29,3 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-
-
-
-![Snake animation](https://github.com/duartecoder/duartecoder/blob/output/github-contribuition-grid-snake.svg)
-
-[![readme](https://github-readme-stats.verce.app/api/pin/?username=duartecoder&repo=duartecoder&theme=react)](https://github.com/duartecoder/duartecoder).
