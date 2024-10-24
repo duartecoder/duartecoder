@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá!Me chamo Pietro, teho 18 anos e venho buscando me aprofundar mais na área de programação front-end, back-end e aplicativos funcionais.<strong>sua stack</strong>.<br>
+  Atualmente faço Faculdade de Análise e Desenvolvimento de Sistemas, mas desejo estagiar para adquirir mais conhecimento na área.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens:C,C+,C++,Java,JavaScript,HTML5,CSS,Python,MySQL.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas que utiizo:VS Code, Trello, Figma,Git,GitHUB.
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+<img src="https://i.gifer.com/5TMy.gif">
 </p>
 
 <p align="left">
