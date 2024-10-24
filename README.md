@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá!Me chamo Pietro, teho 18 anos e venho buscando me aprofundar mais na área de programação front-end, back-end e aplicativos funcionais.<strong>sua stack</strong>.<br>
+  Olá!Me chamo Pietro, tenho 18 anos e venho buscando me aprofundar mais na área de programação front-end, back-end e aplicativos funcionais.<strong>sua stack</strong>.<br>
   Atualmente faço Faculdade de Análise e Desenvolvimento de Sistemas, mas desejo estagiar para adquirir mais conhecimento na área.
 </p>
 
